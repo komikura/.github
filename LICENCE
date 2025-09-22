@@ -1,0 +1,66 @@
+PROPRIETARY SOFTWARE LICENSE
+Copyright (c) 2025 KomiKura Team. All Rights Reserved.
+
+NOTICE: This software and associated documentation files (the "Software") are
+the property of the KomiKura Team and are confidential.
+
+1. OWNERSHIP
+The KomiKura Team is the exclusive owner of the software,
+which is safeguarded by international agreements and copyright laws.
+All of the KomiKura Team's rights are reserved.
+
+2. GRANT OF LIMITED LICENSE
+Permission is granted only to the following authorized developer teams:
+- Developers working in the Administrative Team
+- Developers working in the Frontend Team
+- Developers working in the Backend Team
+- Developers working in the Scraping Team
+
+This license gives every member of the Administrative, Frontend, Backend, and Scraping teams
+listed in the Project's Public .github/README.md the right to:
+a) Use the Software for the development of the KomiKura project.
+b) Modify the Software as needed for the KomiKura project.
+c) Maintain the Software within the official KomiKura repository.
+
+3. STRICT PROHIBITIONS
+Unauthorized use, copying, modification, distribution, publication, or
+any form of exploitation of the Software is strictly prohibited, including but
+not limited to:
+
+a) Distribution to any third party.
+b) Use by any person or entity not explicitly listed in Section 2.
+c) Reverse engineering, decompiling, or disassembling the Software.
+d) Creating derivative works based on the Software.
+e) Using the Software for any commercial or personal projects outside of KomiKura.
+f) Hosting, displaying, or making the Software available on any platform.
+g) Sublicensing, renting, leasing, or transferring the Software.
+
+4. CONFIDENTIALITY
+The Software contains trade secrets and proprietary information. Licensees
+agree to keep the Software confidential and not disclose it to any third party.
+
+5. TERMINATION
+This license ends automatically if you violate any of these terms.
+Upon termination, you must immediately destroy all copies of the Software.
+
+6. NO WARRANTY
+The Software is provided "AS IS" without any warranty. The KomiKura Team 
+is not liable for any damages that arise from the use of the Software.
+
+7. INJUNCTIVE RELIEF
+You understand that any unauthorized use of the Software would cause serious harm
+to the KomiKura Team and that money damages may not be enough.
+The KomiKura Team may seek injunctive relief as well as other legal remedies.
+
+8. GOVERNING LAW
+This license will be governed by the laws of the state of Karnataka in India,
+without regard to its conflict of law rules.  
+
+9. ENTIRE AGREEMENT
+This license represents the entire agreement between the parties
+and overrides all previous agreements.
+
+For licensing inquiries or to request permission for use, contact: 
+contact@komikura.com
+
+ALL UNAUTHORIZED USE IS STRICTLY PROHIBITED.
