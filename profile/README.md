@@ -1,10 +1,10 @@
 # KomiKura
 
-[![Project Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/KomiKura)
+[![Project Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/komikura)
 
 [![License](https://img.shields.io/badge/License-PROPRIETARY-red.svg)](https://github.com/komikura/.github/blob/main/LICENCE)
 
-A next-generation centralized comic reading platform built with passion by comic enthusiasts. KomiKura aims to provide the best reading experience for manga, manhwa, manhua, and other image-based comics.
+A next-generation unified comic reading platform built with passion by comic enthusiasts. We, KomiKura aims to provide the best reading experience for manga, manhwa, manhua, and other image-based comics.
 
 ## Our Mission
 
@@ -12,7 +12,7 @@ After the unfortunate shutdown of [comick.io](https://comick.io) as a central hu
 
 ## Planned Features
 
-- **Centralized Library**: Access to thousands of comics across multiple genres and languages.
+- **Extensive Collection**: A large, varied selection of stories and illustrations from different genres and languages.
 - **Personalized Reading Experience**: Customizable reading settings and bookmarking.
 - **Multi-format Support**: Seamless support for manga, manhwa, manhua, and more.
 - **Cross-platform Compatibility**: Responsive design that works on desktop and mobile and much more!
