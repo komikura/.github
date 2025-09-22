@@ -8,7 +8,7 @@ A next-generation unified comic reading platform built with passion by comic ent
 
 ## Our Mission
 
-After the unfortunate shutdown of [comick.io](https://comick.io) as a central hub for reading, we recognized the need for a reliable, modern platform where comic lovers can enjoy their favorite stories without interruptions. KomiKura is being built from the ground up with stability, performance, and user experience as our top priorities.
+After the unfortunate shutdown of [comick.io](https://comick.io) as a unified hub for reading, we recognized the need for a reliable, modern platform where comic lovers can enjoy their favorite stories without interruptions. KomiKura is being built from the ground up with stability, performance, and user experience as our top priorities.
 
 ## Planned Features
 
